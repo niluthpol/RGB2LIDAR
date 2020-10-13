@@ -1,6 +1,10 @@
 ## RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization
 
-Additional details regarding the ACM MM 2020 paper "RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization" (Niluthpol Mithun, Karan Sikka, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar) will soon be added here.
+The webpage provide the details of the GRAL dataset presented in ACM MM 2020 paper "RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization" (Niluthpol Mithun, Karan Sikka, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar).
+
+The GRAL dataset is here : https://drive.google.com/drive/folders/1VKluuPcp8BYreOZxr6oWXn5pkYEPN1PE?usp=sharing
+
+Additional details of the dataset will be added soon.
 
 ### Reference 
 The bibtex to cite the paper is provided below:
